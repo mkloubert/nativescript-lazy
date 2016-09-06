@@ -1,6 +1,11 @@
-# Nativescript Lazy
+[![npm](https://img.shields.io/npm/v/nativescript-toolbox.svg)](https://www.npmjs.com/package/nativescript-lazy)
+[![npm](https://img.shields.io/npm/dt/nativescript-toolbox.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-lazy)
+
+# NativeScript Lazy
 
 A [NativeScript](https://nativescript.org/) module that provides an OOP version of the build-in lazy function.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4JWGDG56RTZ5L)
 
 ## NativeScript Toolbox
 
