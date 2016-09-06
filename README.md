@@ -33,7 +33,7 @@ inside your app project to install the module.
 ## Example
 
 ```typescript
-import { Lazy } from require('nativescript-lazy');
+import { Lazy } from 'nativescript-lazy';
 
 var lazyValue = new Lazy<Date>(() => new Date());
 
