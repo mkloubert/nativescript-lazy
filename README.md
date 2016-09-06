@@ -1,5 +1,5 @@
-[![npm](https://img.shields.io/npm/v/nativescript-toolbox.svg)](https://www.npmjs.com/package/nativescript-lazy)
-[![npm](https://img.shields.io/npm/dt/nativescript-toolbox.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-lazy)
+[![npm](https://img.shields.io/npm/v/nativescript-lazy.svg)](https://www.npmjs.com/package/nativescript-lazy)
+[![npm](https://img.shields.io/npm/dt/nativescript-lazy.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-lazy)
 
 # NativeScript Lazy
 
